@@ -1,0 +1,30 @@
+.center {
+    margin: auto;
+    padding: 6px;
+    margin-bottom: 12px;
+}
+
+.gheimat {
+    margin-right: 12px;
+}
+
+.modares {
+    margin-left: 12px;
+}
+
+.cardKoli {
+    margin-bottom: 12px;
+}
+
+.header {
+    margin-bottom: 12px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.3)),  url("pic_background.jpg");
+}
+
+h3 {
+    color: white;
+}
+
+span {
+    color: white;
+}
